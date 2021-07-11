@@ -1,0 +1,4 @@
+com/LinkedIn/test/LoginTestWithXml.java
+ com.LinkedIn.test.LoginTestWithXml
+com/LinkedIn/test/LoginTest.java
+ com.LinkedIn.test.LoginTest

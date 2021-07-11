@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.LinkedIn.test.LoginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-11T12:57:48" hostname="DESKTOP-4HUJE76" time="30.383">
+  <properties/>
+  <testcase name="LoginWithPropertyFile" classname="com.LinkedIn.test.LoginTest" time="30.383"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
